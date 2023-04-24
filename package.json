@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "express": "^4.18.2",
-    "node": "^19.8.1"
+    "node": "^19.8.1",
+    "sqlite3": "^5.1.6"
   },
   "name": "first-jaune-app",
   "description": "",
